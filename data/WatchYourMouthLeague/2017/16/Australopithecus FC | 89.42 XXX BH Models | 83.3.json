@@ -1,0 +1,266 @@
+{
+    "week": 16,
+    "teamWinner": {
+        "teamId": "1",
+        "points": 89.42,
+        "standings": "7-7-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "M. Ryan",
+                "playerId": "310",
+                "points": 15.22
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "D. Freeman",
+                "playerId": "2543583",
+                "points": 2.6
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "K. Drake",
+                "playerId": "2555230",
+                "points": 5.7
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "M. Goodwin",
+                "playerId": "2539964",
+                "points": 3.7
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "D. Adams",
+                "playerId": "2543495",
+                "points": 0.0
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "E. Engram",
+                "playerId": "2557858",
+                "points": 2.2
+            },
+            {
+                "teamPosition": "R/W/T",
+                "playerPosition": "RB",
+                "playerName": "L. Fournette",
+                "playerId": "2557973",
+                "points": 15.0
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "C. Boswell",
+                "playerId": "2550545",
+                "points": 10.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Eagles",
+                "playerId": "100025",
+                "points": 32.0
+            },
+            {
+                "teamPosition": "LB",
+                "playerPosition": "LB",
+                "playerName": "L. Kuechly",
+                "playerId": "2533056",
+                "points": 3.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "L. Blount",
+                "playerId": "497149",
+                "points": 1.5
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "A. Smith",
+                "playerId": "2506340",
+                "points": 19.46
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "G. Bernard",
+                "playerId": "2540156",
+                "points": 22.8
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "N. Agholor",
+                "playerId": "2552600",
+                "points": 3.5
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "J. Mixon",
+                "playerId": "2557976",
+                "points": 3.2
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "S. Perine",
+                "playerId": "2558138",
+                "points": 3.4
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "DEF",
+                "playerName": "Chargers",
+                "playerId": "100028",
+                "points": 20.0
+            }
+        ]
+    },
+    "teamLoser": {
+        "teamId": "5",
+        "points": 83.3,
+        "standings": "7-7-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": null,
+                "playerName": null,
+                "playerId": null,
+                "points": null
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "A. Collins",
+                "playerId": "2555430",
+                "points": 5.6
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "A. Kamara",
+                "playerId": "2558019",
+                "points": 9.0
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "A. Green",
+                "playerId": "2495450",
+                "points": 8.1
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "J. Jones",
+                "playerId": "2495454",
+                "points": 14.9
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "J. Cook",
+                "playerId": "71265",
+                "points": 1.5
+            },
+            {
+                "teamPosition": "R/W/T",
+                "playerPosition": "RB",
+                "playerName": "M. Lynch",
+                "playerId": "2495663",
+                "points": 5.2
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "J. Elliott",
+                "playerId": "2558172",
+                "points": 8.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Seahawks",
+                "playerId": "100030",
+                "points": 27.0
+            },
+            {
+                "teamPosition": "LB",
+                "playerPosition": "LB",
+                "playerName": "T. Smith",
+                "playerId": "2543711",
+                "points": 4.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "M. Forte",
+                "playerId": "234",
+                "points": -0.4
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "D. Amendola",
+                "playerId": "2649",
+                "points": 2.8
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "D. Martin",
+                "playerId": "2532899",
+                "points": 0.7
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "K. Benjamin",
+                "playerId": "2543471",
+                "points": 7.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "TE",
+                "playerName": "C. Brate",
+                "playerId": "2550656",
+                "points": 1.3
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "R. Smith",
+                "playerId": "2553743",
+                "points": 3.3
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "D. Prescott",
+                "playerId": "2555260",
+                "points": 3.34
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "LB",
+                "playerName": "R. Shazier",
+                "playerId": "2543486",
+                "points": 0.0
+            }
+        ]
+    }
+}

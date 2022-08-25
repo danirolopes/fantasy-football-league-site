@@ -1,0 +1,231 @@
+{
+    "week": 2,
+    "teamWinner": {
+        "teamId": "4",
+        "points": 128.2,
+        "standings": "2-0-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "C. Palmer",
+                "playerId": "2505245",
+                "points": 28.2
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "M. Forte",
+                "playerId": "234",
+                "points": 10.5
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "J. Randle",
+                "playerId": "2540171",
+                "points": 6.5
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "S. Watkins",
+                "playerId": "2543457",
+                "points": 12.0
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "O. Beckham",
+                "playerId": "2543496",
+                "points": 21.6
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "R. Gronkowski",
+                "playerId": "497240",
+                "points": 17.3
+            },
+            {
+                "teamPosition": "W/R",
+                "playerPosition": "WR",
+                "playerName": "B. Marshall",
+                "playerId": "2495893",
+                "points": 16.1
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "S. Hauschka",
+                "playerId": "2507374",
+                "points": 8.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Texans",
+                "playerId": "100013",
+                "points": 8.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "S. Bradford",
+                "playerId": "497095",
+                "points": 7.86
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "T. Romo",
+                "playerId": "2505354",
+                "points": 7.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "E. Manning",
+                "playerId": "2505996",
+                "points": 23.98
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "F. Gore",
+                "playerId": "2506404",
+                "points": 4.1
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "B. Cooks",
+                "playerId": "2543498",
+                "points": 5.8
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "TE",
+                "playerName": "A. Seferian-Jenkins",
+                "playerId": "2543683",
+                "points": 2.9
+            }
+        ]
+    },
+    "teamLoser": {
+        "teamId": "2",
+        "points": 90.4,
+        "standings": "1-1-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "D. Brees",
+                "playerId": "2504775",
+                "points": 13.1
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "M. Lynch",
+                "playerId": "2495663",
+                "points": 6.2
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "L. Miller",
+                "playerId": "2533034",
+                "points": 4.2
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "R. Cobb",
+                "playerId": "2495448",
+                "points": 11.6
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "J. Jones",
+                "playerId": "2495454",
+                "points": 13.5
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "T. Kelce",
+                "playerId": "2540258",
+                "points": 5.8
+            },
+            {
+                "teamPosition": "W/R",
+                "playerPosition": "RB",
+                "playerName": "J. Forsett",
+                "playerId": "927",
+                "points": 8.0
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "S. Gostkowski",
+                "playerId": "2506922",
+                "points": 21.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Panthers",
+                "playerId": "100004",
+                "points": 7.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "C. Ivory",
+                "playerId": "2507999",
+                "points": 6.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "R. Tannehill",
+                "playerId": "2532956",
+                "points": 28.06
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "L. Murray",
+                "playerId": "2541161",
+                "points": 14.7
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "M. Gordon",
+                "playerId": "2552469",
+                "points": 9.8
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "A. Cooper",
+                "playerId": "2552487",
+                "points": 17.9
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "K. White",
+                "playerId": "2553432",
+                "points": 0.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "week": 2,
+    "teamWinner": {
+        "teamId": "4",
+        "points": 98.04,
+        "standings": "2-0-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "D. Brees",
+                "playerId": "2504775",
+                "points": 27.24
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "F. Gore",
+                "playerId": "2506404",
+                "points": 10.6
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "J. White",
+                "playerId": "2543773",
+                "points": 9.6
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "T. Hill",
+                "playerId": "2556214",
+                "points": 4.9
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "M. Thomas",
+                "playerId": "2556370",
+                "points": 8.9
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "J. Reed",
+                "playerId": "2540160",
+                "points": 5.8
+            },
+            {
+                "teamPosition": "R/W/T",
+                "playerPosition": "RB",
+                "playerName": "J. Stewart",
+                "playerId": "949",
+                "points": 4.0
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "D. Bailey",
+                "playerId": "2495259",
+                "points": 7.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Cardinals",
+                "playerId": "100026",
+                "points": 13.0
+            },
+            {
+                "teamPosition": "LB",
+                "playerPosition": "LB",
+                "playerName": "B. Wagner",
+                "playerId": "2532966",
+                "points": 7.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "T. Taylor",
+                "playerId": "2495240",
+                "points": 10.5
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "T. Ginn",
+                "playerId": "2507166",
+                "points": 2.4
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "TE",
+                "playerName": "T. Kelce",
+                "playerId": "2540258",
+                "points": 16.3
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "J. Brown",
+                "playerId": "2543847",
+                "points": 0.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "I. Crowell",
+                "playerId": "2550189",
+                "points": 3.7
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "J. Howard",
+                "playerId": "2555418",
+                "points": 0.7
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "DEF",
+                "playerName": "Ravens",
+                "playerId": "100002",
+                "points": 28.0
+            }
+        ]
+    },
+    "teamLoser": {
+        "teamId": "2",
+        "points": 50.62,
+        "standings": "0-2-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "A. Rodgers",
+                "playerId": "2506363",
+                "points": 19.52
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "D. Murray",
+                "playerId": "2495207",
+                "points": 3.8
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "T. Cohen",
+                "playerId": "2558250",
+                "points": 3.8
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "R. Cobb",
+                "playerId": "2495448",
+                "points": 7.0
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "B. Cooks",
+                "playerId": "2543498",
+                "points": 4.3
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "C. Brate",
+                "playerId": "2550656",
+                "points": 3.4
+            },
+            {
+                "teamPosition": "R/W/T",
+                "playerPosition": "WR",
+                "playerName": "K. Golladay",
+                "playerId": "2558052",
+                "points": 0.8
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "G. Gano",
+                "playerId": "71309",
+                "points": 7.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Jaguars",
+                "playerId": "100015",
+                "points": 1.0
+            },
+            {
+                "teamPosition": "LB",
+                "playerPosition": "LB",
+                "playerName": "T. Watt",
+                "playerId": "2558064",
+                "points": 0.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "M. Forte",
+                "playerId": "234",
+                "points": 9.1
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "TE",
+                "playerName": "J. Witten",
+                "playerId": "2505629",
+                "points": 15.7
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "A. Peterson",
+                "playerId": "2507164",
+                "points": 2.6
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "C. Hogan",
+                "playerId": "2530515",
+                "points": 13.8
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "M. Jones",
+                "playerId": "2532884",
+                "points": 8.7
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "D. Prescott",
+                "playerId": "2555260",
+                "points": 17.92
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "DEF",
+                "playerName": "Broncos",
+                "playerId": "100009",
+                "points": 17.0
+            }
+        ]
+    }
+}

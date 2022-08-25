@@ -1,0 +1,287 @@
+{
+    "week": 13,
+    "teamWinner": {
+        "teamId": "10",
+        "points": 116.84,
+        "standings": "11-2-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "T. Heinicke",
+                "playerId": "2553656",
+                "points": 17.14
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "L. Murray",
+                "playerId": "2541161",
+                "points": 4.5
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "A. Gibson",
+                "playerId": "2565276",
+                "points": 19.6
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "A. Thielen",
+                "playerId": "2541785",
+                "points": 0.5
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "S. Diggs",
+                "playerId": "2552608",
+                "points": 7.1
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "M. Andrews",
+                "playerId": "2560957",
+                "points": 7.0
+            },
+            {
+                "teamPosition": "R/W/T",
+                "playerPosition": "WR",
+                "playerName": "M. Brown",
+                "playerId": "2562379",
+                "points": 8.0
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "J. Tucker",
+                "playerId": "2536340",
+                "points": 4.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Colts",
+                "playerId": "100014",
+                "points": 28.0
+            },
+            {
+                "teamPosition": "DL",
+                "playerPosition": "DL",
+                "playerName": "Q. Williams",
+                "playerId": "2562599",
+                "points": 5.0
+            },
+            {
+                "teamPosition": "LB",
+                "playerPosition": "LB",
+                "playerName": "B. Wagner",
+                "playerId": "2532966",
+                "points": 10.5
+            },
+            {
+                "teamPosition": "DB",
+                "playerPosition": "DB",
+                "playerName": "L. Ryan",
+                "playerId": "2540162",
+                "points": 5.5
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "M. Ingram",
+                "playerId": "2495466",
+                "points": 3.1
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "TE",
+                "playerName": "Z. Ertz",
+                "playerId": "2540158",
+                "points": 1.5
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "R. Gage",
+                "playerId": "2561061",
+                "points": 14.5
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "D. Henderson",
+                "playerId": "2562574",
+                "points": 0.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "V. Jefferson",
+                "playerId": "2564358",
+                "points": 13.1
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "J. Hurts",
+                "playerId": "2564832",
+                "points": 0.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "DEF",
+                "playerName": "Broncos",
+                "playerId": "100009",
+                "points": 7.0
+            }
+        ]
+    },
+    "teamLoser": {
+        "teamId": "5",
+        "points": 105.04,
+        "standings": "5-8-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "R. Wilson",
+                "playerId": "2532975",
+                "points": 18.04
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "J. Mixon",
+                "playerId": "2557976",
+                "points": 7.4
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "T. Johnson",
+                "playerId": "2562293",
+                "points": 2.5
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "B. Cooks",
+                "playerId": "2543498",
+                "points": 6.9
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "T. Hill",
+                "playerId": "2556214",
+                "points": 4.2
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "T. Hockenson",
+                "playerId": "2562378",
+                "points": 13.9
+            },
+            {
+                "teamPosition": "R/W/T",
+                "playerPosition": "WR",
+                "playerName": "A. Cooper",
+                "playerId": "2552487",
+                "points": 5.1
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "M. Gay",
+                "playerId": "2562271",
+                "points": 12.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Buccaneers",
+                "playerId": "100031",
+                "points": 19.0
+            },
+            {
+                "teamPosition": "DL",
+                "playerPosition": "DL",
+                "playerName": "L. Williams",
+                "playerId": "2552486",
+                "points": 4.0
+            },
+            {
+                "teamPosition": "LB",
+                "playerPosition": "LB",
+                "playerName": "R. Smith",
+                "playerId": "2560877",
+                "points": 6.0
+            },
+            {
+                "teamPosition": "DB",
+                "playerPosition": "DB",
+                "playerName": "D. James",
+                "playerId": "2560760",
+                "points": 6.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "T. Bridgewater",
+                "playerId": "2543465",
+                "points": 10.18
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "J. Crowder",
+                "playerId": "2552415",
+                "points": 9.2
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "TE",
+                "playerName": "E. Engram",
+                "playerId": "2557858",
+                "points": 8.1
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "M. Valdes-Scantling",
+                "playerId": "2560907",
+                "points": 0.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "D. Swift",
+                "playerId": "2563965",
+                "points": 0.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "DEF",
+                "playerName": "Eagles",
+                "playerId": "100025",
+                "points": 9.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "DEF",
+                "playerName": "Cardinals",
+                "playerId": "100026",
+                "points": 22.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,287 @@
+{
+    "week": 1,
+    "teamWinner": {
+        "teamId": "13",
+        "points": 112.88,
+        "standings": "1-0-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "R. Tannehill",
+                "playerId": "2532956",
+                "points": 9.78
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "D. Montgomery",
+                "playerId": "2562502",
+                "points": 18.3
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "J. Taylor",
+                "playerId": "2564148",
+                "points": 14.6
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "C. Beasley",
+                "playerId": "2535698",
+                "points": 10.0
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "D. Metcalf",
+                "playerId": "2562685",
+                "points": 14.0
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "K. Pitts",
+                "playerId": "2565830",
+                "points": 5.1
+            },
+            {
+                "teamPosition": "R/W/T",
+                "playerPosition": "WR",
+                "playerName": "M. Gallup",
+                "playerId": "2560735",
+                "points": 5.6
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "R. Gould",
+                "playerId": "2506264",
+                "points": 11.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Bills",
+                "playerId": "100003",
+                "points": 4.0
+            },
+            {
+                "teamPosition": "DL",
+                "playerPosition": "DL",
+                "playerName": "C. Jones",
+                "playerId": "2556369",
+                "points": 7.0
+            },
+            {
+                "teamPosition": "LB",
+                "playerPosition": "LB",
+                "playerName": "E. Kendricks",
+                "playerId": "2552312",
+                "points": 10.5
+            },
+            {
+                "teamPosition": "DB",
+                "playerPosition": "DB",
+                "playerName": "D. Sorensen",
+                "playerId": "2550257",
+                "points": 3.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "M. Ryan",
+                "playerId": "310",
+                "points": 4.96
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "C. Hyde",
+                "playerId": "2543743",
+                "points": 6.8
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "TE",
+                "playerName": "G. Everett",
+                "playerId": "2557889",
+                "points": 9.0
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "J. Smith-Schuster",
+                "playerId": "2558149",
+                "points": 7.2
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "M. Williams",
+                "playerId": "2558846",
+                "points": 18.2
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "A. Lazard",
+                "playerId": "2560787",
+                "points": 2.6
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "T. Pollard",
+                "playerId": "2562699",
+                "points": 6.3
+            }
+        ]
+    },
+    "teamLoser": {
+        "teamId": "4",
+        "points": 101.44,
+        "standings": "0-1-0",
+        "starters": [
+            {
+                "teamPosition": "QB",
+                "playerPosition": "QB",
+                "playerName": "B. Mayfield",
+                "playerId": "2560800",
+                "points": 10.94
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "K. Hunt",
+                "playerId": "2557917",
+                "points": 15.6
+            },
+            {
+                "teamPosition": "RB",
+                "playerPosition": "RB",
+                "playerName": "N. Harris",
+                "playerId": "2566448",
+                "points": 5.4
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "M. Jones",
+                "playerId": "2532884",
+                "points": 16.2
+            },
+            {
+                "teamPosition": "WR",
+                "playerPosition": "WR",
+                "playerName": "R. Woods",
+                "playerId": "2540169",
+                "points": 10.9
+            },
+            {
+                "teamPosition": "TE",
+                "playerPosition": "TE",
+                "playerName": "L. Thomas",
+                "playerId": "2543767",
+                "points": 12.5
+            },
+            {
+                "teamPosition": "R/W/T",
+                "playerPosition": "RB",
+                "playerName": "T. Williams",
+                "playerId": "2565542",
+                "points": 16.9
+            },
+            {
+                "teamPosition": "K",
+                "playerPosition": "K",
+                "playerName": "C. Santos",
+                "playerId": "2550636",
+                "points": 2.0
+            },
+            {
+                "teamPosition": "DEF",
+                "playerPosition": "DEF",
+                "playerName": "Packers",
+                "playerId": "100011",
+                "points": -4.0
+            },
+            {
+                "teamPosition": "DL",
+                "playerPosition": "DL",
+                "playerName": "B. Burns",
+                "playerId": "2562242",
+                "points": 4.5
+            },
+            {
+                "teamPosition": "LB",
+                "playerPosition": "LB",
+                "playerName": "B. Martinez",
+                "playerId": "2555161",
+                "points": 7.5
+            },
+            {
+                "teamPosition": "DB",
+                "playerPosition": "DB",
+                "playerName": "M. Jenkins",
+                "playerId": "79848",
+                "points": 3.0
+            }
+        ],
+        "bench": [
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "A. Ekeler",
+                "playerId": "2559169",
+                "points": 11.7
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "J. Meyers",
+                "playerId": "2562492",
+                "points": 7.4
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "TE",
+                "playerName": "C. Kmet",
+                "playerId": "2563704",
+                "points": 6.7
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "J. Jeudy",
+                "playerId": "2563896",
+                "points": 10.2
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "RB",
+                "playerName": "J. Williams",
+                "playerId": "2566049",
+                "points": 4.6
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "QB",
+                "playerName": "M. Jones",
+                "playerId": "2566334",
+                "points": 15.24
+            },
+            {
+                "teamPosition": "BN",
+                "playerPosition": "WR",
+                "playerName": "E. Moore",
+                "playerId": "2566385",
+                "points": 0.2
+            }
+        ]
+    }
+}

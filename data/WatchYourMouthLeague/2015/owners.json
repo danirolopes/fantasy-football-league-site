@@ -1,0 +1,66 @@
+{
+    "1": {
+        "id": "1",
+        "moves": "17",
+        "ownerName": "Lucas",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "Australopithecus FC",
+        "trades": "0"
+    },
+    "2": {
+        "id": "2",
+        "moves": "8",
+        "ownerName": "Victor",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "Lauar Team",
+        "trades": "0"
+    },
+    "3": {
+        "id": "3",
+        "moves": "36",
+        "ownerName": "Casao",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "HolyXerecas",
+        "trades": "1"
+    },
+    "4": {
+        "id": "4",
+        "moves": "25",
+        "ownerName": "Joao Victor",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/NYG_1.png",
+        "teamName": "Giants",
+        "trades": "2"
+    },
+    "5": {
+        "id": "5",
+        "moves": "11",
+        "ownerName": "Ratapro",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "BH Models",
+        "trades": "0"
+    },
+    "6": {
+        "id": "6",
+        "moves": "1",
+        "ownerName": "joel antonio",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "Longo gordo",
+        "trades": "1"
+    },
+    "7": {
+        "id": "7",
+        "moves": "35",
+        "ownerName": "Daniel",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "GOBulldogs FC",
+        "trades": "2"
+    },
+    "8": {
+        "id": "8",
+        "moves": "9",
+        "ownerName": "Pitico",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/MISC13.png",
+        "teamName": "CoCo FA",
+        "trades": "2"
+    }
+}

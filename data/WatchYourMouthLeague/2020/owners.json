@@ -1,0 +1,98 @@
+{
+    "1": {
+        "id": "1",
+        "moves": "47",
+        "ownerName": "Lucas",
+        "teamLogo": "https://image.fantasy.nfl.com/image/9a9f288711edb6bca40c32fb6341b8f0.jpg?x=40&y=40&sig=112140ea1accca551c57f67d1ad873f5",
+        "teamName": "Crying King",
+        "trades": "0"
+    },
+    "10": {
+        "id": "10",
+        "moves": "46",
+        "ownerName": "Caio",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/TB_4.png",
+        "teamName": "Goatseason12",
+        "trades": "0"
+    },
+    "11": {
+        "id": "11",
+        "moves": "47",
+        "ownerName": "Guilherme",
+        "teamLogo": "https://image.fantasy.nfl.com/image/4a2bb8ebc65a13ee2fccb639f32d2e74.jpg?x=40&y=40&sig=fb0bd43baa489331cb2d4f76919f13eb",
+        "teamName": "We are on to Cincinnati",
+        "trades": "1"
+    },
+    "12": {
+        "id": "12",
+        "moves": "33",
+        "ownerName": "Bernardo",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/PHI_4.png",
+        "teamName": "BezaDesembolando",
+        "trades": "1"
+    },
+    "2": {
+        "id": "2",
+        "moves": "52",
+        "ownerName": "Victor",
+        "teamLogo": "https://image.fantasy.nfl.com/image/dfb6bb4092104bedc10dd48e177f1a2d.jpg?x=40&y=40&sig=3377b82bd16af9b22366361697ca1647",
+        "teamName": "Lauar Team",
+        "trades": "0"
+    },
+    "3": {
+        "id": "3",
+        "moves": "58",
+        "ownerName": "Casao",
+        "teamLogo": "https://image.fantasy.nfl.com/image/70a97053cf18603e757f58f25c6c262f.jpg?x=40&y=40&sig=30c9e2507002c358ea19ba80eee30e32",
+        "teamName": "Blessed Coreaninha",
+        "trades": "2"
+    },
+    "4": {
+        "id": "4",
+        "moves": "26",
+        "ownerName": "Joao Victor",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/NYG_4.png",
+        "teamName": "Why Always Me",
+        "trades": "0"
+    },
+    "5": {
+        "id": "5",
+        "moves": "33",
+        "ownerName": "Eduardo",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/JAX_4.png",
+        "teamName": "2Pack",
+        "trades": "0"
+    },
+    "6": {
+        "id": "6",
+        "moves": "12",
+        "ownerName": "Gabriel",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/PHI_5.png",
+        "teamName": "Gang Green",
+        "trades": "1"
+    },
+    "7": {
+        "id": "7",
+        "moves": "44",
+        "ownerName": "Daniel",
+        "teamLogo": "https://image.fantasy.nfl.com/image/b3e9d64c216c28c2de7e1e47cc7c85f1.jpg?x=40&y=40&sig=6e7866a88661ce6d8e9afc3967dfa453",
+        "teamName": "GOBulldogs FC",
+        "trades": "0"
+    },
+    "8": {
+        "id": "8",
+        "moves": "22",
+        "ownerName": "Pitico",
+        "teamLogo": "https://image.fantasy.nfl.com/image/972f3a704d9b0c02b5ad29a1dc165757.jpg?x=40&y=40&sig=3a225318cc903fe8d3976b46045734c7",
+        "teamName": "AE PITICO DAQL NAIPE NE",
+        "trades": "1"
+    },
+    "9": {
+        "id": "9",
+        "moves": "12",
+        "ownerName": "Gustavo",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/CHI_1.png",
+        "teamName": "Chernobyl FC",
+        "trades": "0"
+    }
+}

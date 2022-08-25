@@ -1,0 +1,72 @@
+[
+    {
+        "teamId": "3",
+        "rank": "1",
+        "record": "12-2-0",
+        "pointsFor": 1667.44,
+        "pointsAgainst": 1352.48
+    },
+    {
+        "teamId": "10",
+        "rank": "2",
+        "record": "10-4-0",
+        "pointsFor": 1392.42,
+        "pointsAgainst": 1312.28
+    },
+    {
+        "teamId": "4",
+        "rank": "3",
+        "record": "9-5-0",
+        "pointsFor": 1474.96,
+        "pointsAgainst": 1449.1
+    },
+    {
+        "teamId": "6",
+        "rank": "4",
+        "record": "9-5-0",
+        "pointsFor": 1587.14,
+        "pointsAgainst": 1413.94
+    },
+    {
+        "teamId": "5",
+        "rank": "5",
+        "record": "8-6-0",
+        "pointsFor": 1405.92,
+        "pointsAgainst": 1373.76
+    },
+    {
+        "teamId": "1",
+        "rank": "6",
+        "record": "7-7-0",
+        "pointsFor": 1595.58,
+        "pointsAgainst": 1535.38
+    },
+    {
+        "teamId": "7",
+        "rank": "7",
+        "record": "6-8-0",
+        "pointsFor": 1412.12,
+        "pointsAgainst": 1557.98
+    },
+    {
+        "teamId": "8",
+        "rank": "8",
+        "record": "4-10-0",
+        "pointsFor": 1263.8,
+        "pointsAgainst": 1476.48
+    },
+    {
+        "teamId": "9",
+        "rank": "9",
+        "record": "4-10-0",
+        "pointsFor": 1407.96,
+        "pointsAgainst": 1422.6
+    },
+    {
+        "teamId": "2",
+        "rank": "10",
+        "record": "1-13-0",
+        "pointsFor": 1146.32,
+        "pointsAgainst": 1459.66
+    }
+]

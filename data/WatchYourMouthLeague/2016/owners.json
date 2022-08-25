@@ -1,0 +1,82 @@
+{
+    "1": {
+        "id": "1",
+        "moves": "19",
+        "ownerName": "Lucas",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "Australopithecus FC",
+        "trades": "0"
+    },
+    "10": {
+        "id": "10",
+        "moves": "7",
+        "ownerName": "Leo",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "Gigantes Celestes do Beco",
+        "trades": "0"
+    },
+    "2": {
+        "id": "2",
+        "moves": "10",
+        "ownerName": "Victor",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/NO_1.png",
+        "teamName": "NOSaints Team",
+        "trades": "0"
+    },
+    "3": {
+        "id": "3",
+        "moves": "15",
+        "ownerName": "Casao",
+        "teamLogo": "https://image.fantasy.nfl.com/image/b1f0a678308fe424f4639fdf6568e26e.jpg?x=40&y=40&sig=a62bcdd04aa99ee2dc7ccc5803e69e95",
+        "teamName": "CasaoComeCuETambemComeXereca",
+        "trades": "2"
+    },
+    "4": {
+        "id": "4",
+        "moves": "14",
+        "ownerName": "Joao Victor",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/NYG_1.png",
+        "teamName": "Giants",
+        "trades": "1"
+    },
+    "5": {
+        "id": "5",
+        "moves": "19",
+        "ownerName": "Ratapro",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "BH Models",
+        "trades": "0"
+    },
+    "6": {
+        "id": "6",
+        "moves": "41",
+        "ownerName": "Gustavo",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/PIT_1.png",
+        "teamName": "Steelao da massa",
+        "trades": "0"
+    },
+    "7": {
+        "id": "7",
+        "moves": "25",
+        "ownerName": "Daniel",
+        "teamLogo": "https://image.fantasy.nfl.com/image/d153b19aa909e6f05e8852d9aa462b21.jpg?x=40&y=40&sig=479bf6eb2ae6be86f7eba8d291dfe032",
+        "teamName": "GOBulldogs FC",
+        "trades": "1"
+    },
+    "8": {
+        "id": "8",
+        "moves": "16",
+        "ownerName": "Pitico",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/MISC13.png",
+        "teamName": "XXIII BOOMIN'",
+        "trades": "2"
+    },
+    "9": {
+        "id": "9",
+        "moves": "24",
+        "ownerName": "Gustavo",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "WINTERFELL WOLFS",
+        "trades": "0"
+    }
+}

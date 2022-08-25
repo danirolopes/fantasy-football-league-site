@@ -1,0 +1,50 @@
+[
+    {
+        "teamId": "9",
+        "rank": "1"
+    },
+    {
+        "teamId": "11",
+        "rank": "2"
+    },
+    {
+        "teamId": "10",
+        "rank": "3"
+    },
+    {
+        "teamId": "7",
+        "rank": "4"
+    },
+    {
+        "teamId": "12",
+        "rank": "5"
+    },
+    {
+        "teamId": "3",
+        "rank": "6"
+    },
+    {
+        "teamId": "8",
+        "rank": "7"
+    },
+    {
+        "teamId": "1",
+        "rank": "8"
+    },
+    {
+        "teamId": "6",
+        "rank": "9"
+    },
+    {
+        "teamId": "4",
+        "rank": "10"
+    },
+    {
+        "teamId": "5",
+        "rank": "11"
+    },
+    {
+        "teamId": "2",
+        "rank": "12"
+    }
+]

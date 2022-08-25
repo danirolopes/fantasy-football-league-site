@@ -1,0 +1,82 @@
+{
+    "1": {
+        "id": "1",
+        "moves": "34",
+        "ownerName": "Lucas",
+        "teamLogo": "https://image.fantasy.nfl.com/image/9a9f288711edb6bca40c32fb6341b8f0.jpg?x=40&y=40&sig=112140ea1accca551c57f67d1ad873f5",
+        "teamName": "Crying King",
+        "trades": "2"
+    },
+    "10": {
+        "id": "10",
+        "moves": "40",
+        "ownerName": "Caio",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "Goatseason12",
+        "trades": "0"
+    },
+    "2": {
+        "id": "2",
+        "moves": "34",
+        "ownerName": "Victor",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/NO_1.png",
+        "teamName": "NOSaints Team",
+        "trades": "3"
+    },
+    "3": {
+        "id": "3",
+        "moves": "53",
+        "ownerName": "Casao",
+        "teamLogo": "https://image.fantasy.nfl.com/image/6fca15421204af9bec3051326b0c1a86.jpg?x=40&y=40&sig=f7bfe89aa6a832eed50e97111e429702",
+        "teamName": "Kerryon Mahomie",
+        "trades": "6"
+    },
+    "4": {
+        "id": "4",
+        "moves": "22",
+        "ownerName": "Joao Victor",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/NYG_1.png",
+        "teamName": "Gurley AND Barkley S2",
+        "trades": "6"
+    },
+    "5": {
+        "id": "5",
+        "moves": "36",
+        "ownerName": "Eduardo",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/GB_1.png",
+        "teamName": "2Pack",
+        "trades": "2"
+    },
+    "6": {
+        "id": "6",
+        "moves": "3",
+        "ownerName": "Gabriel",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/PHI_1.png",
+        "teamName": "Gang Green",
+        "trades": "2"
+    },
+    "7": {
+        "id": "7",
+        "moves": "42",
+        "ownerName": "Daniel",
+        "teamLogo": "https://image.fantasy.nfl.com/image/d153b19aa909e6f05e8852d9aa462b21.jpg?x=40&y=40&sig=479bf6eb2ae6be86f7eba8d291dfe032",
+        "teamName": "GOBulldogs FC",
+        "trades": "2"
+    },
+    "8": {
+        "id": "8",
+        "moves": "28",
+        "ownerName": "Pitico",
+        "teamLogo": "https://image.fantasy.nfl.com/image/93021be58414a958c9d6d96227fdf679.jpg?x=40&y=40&sig=a4f9ebf1f9b590a0f9d346124bf82291",
+        "teamName": "PITICO BOOMIN'",
+        "trades": "5"
+    },
+    "9": {
+        "id": "9",
+        "moves": "37",
+        "ownerName": "Gustavo",
+        "teamLogo": "https://static.www.nfl.com/league/apps/fantasy/logos/avatar/240x240/DEF.png",
+        "teamName": "Brooklyn 99 Peraltas",
+        "trades": "2"
+    }
+}

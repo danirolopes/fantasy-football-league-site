@@ -1,0 +1,42 @@
+[
+    {
+        "teamId": "6",
+        "rank": "1"
+    },
+    {
+        "teamId": "10",
+        "rank": "2"
+    },
+    {
+        "teamId": "3",
+        "rank": "3"
+    },
+    {
+        "teamId": "9",
+        "rank": "4"
+    },
+    {
+        "teamId": "8",
+        "rank": "5"
+    },
+    {
+        "teamId": "4",
+        "rank": "6"
+    },
+    {
+        "teamId": "1",
+        "rank": "7"
+    },
+    {
+        "teamId": "5",
+        "rank": "8"
+    },
+    {
+        "teamId": "2",
+        "rank": "9"
+    },
+    {
+        "teamId": "7",
+        "rank": "10"
+    }
+]
