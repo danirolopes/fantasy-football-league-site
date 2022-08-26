@@ -5,7 +5,8 @@ import {
     Center ,
     Heading ,
     Box,
-    Text
+    Text,
+    AspectRatio
 } from '@chakra-ui/react'
 
 import Link from 'next/link'
@@ -23,8 +24,10 @@ export default function PageWrapper(props){
                 <Center>
                     <Link href="/">
                         <Flex>
-                            <Image src="/football-64-102853.png" />
-                            <Center ml="1rem">
+                            <Center>
+                                <Image src="/football-64-102853.png" h={63} w={63} objectFit="cover" />
+                            </Center>
+                            <Center ml="1.3rem">
                                 <Box>
                                     <Heading letterSpacing="2px" fontSize="4rem">WYML</Heading>
                                     <Text>Tradição Pesa</Text>
