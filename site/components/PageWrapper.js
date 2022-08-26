@@ -10,7 +10,7 @@ import {
 
 import Link from 'next/link'
 
-export default function Header(){
+export default function PageWrapper(props){
     return (
         <>
             <Head>
@@ -34,6 +34,7 @@ export default function Header(){
                     </Link>
                 </Center>
             </Box>
+            {props.children}
         </>
     )
 }

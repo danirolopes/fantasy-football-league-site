@@ -1,4 +1,3 @@
-import Header from "../components/Header"
 import Card from "../components/Card"
 import {
     Table,
@@ -27,7 +26,6 @@ import Link from "next/link";
 export default function HomePage(props){
     return (
         <>
-          <Header></Header>
           <Container  maxW='container.lg'>
                 <Card title="Campeões">
                     <TableContainer>

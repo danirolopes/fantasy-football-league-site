@@ -1,6 +1,8 @@
 import '../styles/globals.css'
 import { ChakraProvider, extendTheme} from '@chakra-ui/react'
 
+import PageWrapper from '../components/PageWrapper'
+
 const themeConfig = {
   colors: {
     brand: {
@@ -46,7 +48,9 @@ const theme = extendTheme( themeConfig )
 function MyApp({ Component, pageProps }) {
   return (
     <ChakraProvider theme={theme}>
-      <Component {...pageProps} />
+      <PageWrapper>
+        <Component {...pageProps} />
+      </PageWrapper>
     </ChakraProvider>
   )
 }

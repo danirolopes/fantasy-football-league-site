@@ -1,4 +1,3 @@
-import Header from "../../../../components/Header"
 import Card from "../../../../components/Card"
 import {
     Table,
@@ -25,7 +24,6 @@ export default function MatchupPage(props){
     const router = useRouter()
     return (
         <>
-          <Header></Header>
           <Container  maxW='container.lg'>
                 <SeasonNav/>
                 <Card title={"Semana "+router.query.week}>

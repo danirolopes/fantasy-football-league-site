@@ -1,4 +1,3 @@
-import Header from "../../../components/Header"
 import Card from "../../../components/Card"
 import {
     Table,
@@ -30,7 +29,6 @@ import { getSeasonsPaths } from "../../../lib/util"
 export default function StandingsPage(props){
     return (
         <>
-          <Header></Header>
           <Container  maxW='container.lg'>
                 <SeasonNav/>
                 <Card title="Destaques">
