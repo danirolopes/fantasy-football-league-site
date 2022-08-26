@@ -32,13 +32,6 @@ export default function HomePage(props){
                 <Card title="Campeões">
                     <TableContainer>
                         <Table size="md" colorScheme="tableScheme">
-                          <Thead>
-                            <Tr>
-                              <Th>Temporada</Th>
-                              <Th>Campeão</Th>
-                              <Th></Th>
-                            </Tr>
-                          </Thead>
                           <Tbody>
                           {Object.entries(props.seasons).sort((a, b) => parseInt(b[0]) - parseInt(a[0])).map(
                             ([seasonNum, season]) => <Season season={seasonNum} owners={season.owners} playoffs={season.playoffs} />
@@ -62,7 +55,7 @@ function Season(props){
                   <Icon w={10} h={10} mr="15px" verticalAlign="middle" as={GiLaurelsTrophy} />
                 </Center>
                 <Box>
-                  <Heading>{props.owners[props.playoffs[0].teamId].teamName}</Heading>
+                  <Heading fontSize="1.5rem">{props.owners[props.playoffs[0].teamId].teamName}</Heading>
                   <Heading fontSize="sm" fontWeight={500} color="gray.600">{props.owners[props.playoffs[0].teamId].ownerName}</Heading>
                 </Box>
               </Flex>

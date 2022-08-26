@@ -9,17 +9,17 @@ export default function Card(props) {
         flexDirection: "column",
         width: "100%",
         position: "relative",
-        borderRadius: "20px",
+        borderRadius: "1.5rem",
         minWidth: "0px",
         wordWrap: "break-word",
         backgroundClip: "border-box",
         overflow: "hidden",
-        marginTop: "20px",
-        marginBottom: "20px"
+        marginTop: "1.5rem",
+        marginBottom: "1.5rem"
     }
 
     const styleHeader = {
-        p: "20px",
+        p: "1.5rem",
         display: "flex",
         flexDirection: "column",
         width: "100%",
@@ -31,7 +31,7 @@ export default function Card(props) {
     }
 
     const styleContent = {
-        p: "20px",
+        p: "1.5rem",
         display: "flex",
         flexDirection: "column",
         width: "100%",

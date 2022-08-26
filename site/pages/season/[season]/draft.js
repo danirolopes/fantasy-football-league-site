@@ -13,7 +13,8 @@ import {
     TabList,
     Tab,
     TabPanels,
-    TabPanel
+    TabPanel,
+    Box
   } from '@chakra-ui/react'
 
 import SeasonNav from "../../../components/SeasonNav";
@@ -59,10 +60,8 @@ function Round(props){
             <Table variant='striped' size="md" colorScheme="tableScheme">
                 <Thead>
                 <Tr>
-                    <Th>Overall</Th>
                     <Th>Pick</Th>
                     <Th>Jogador</Th>
-                    <Th>Posição</Th>
                     <Th>Time</Th>
                 </Tr>
                 </Thead>
@@ -78,10 +77,15 @@ function Round(props){
 function Pick(props){
     return (
         <Tr>
-            <Td>{props.pick.pickOverall}</Td>
             <Td>{props.pick.round}.{props.pick.pickRound}</Td>
-            <Td fontWeight="800">{props.pick.playerName}</Td>
-            <Td>{props.pick.playerPosition}</Td>
+            <Td>
+                <Box fontWeight={800}>
+                    {props.pick.playerName}
+                </Box>
+                <Box color="gray.600" mt="0.3rem">
+                    {props.pick.playerPosition}
+                </Box>
+            </Td>
             <Td>{props.owners[props.pick.teamId].teamName}</Td>
         </Tr>
     )

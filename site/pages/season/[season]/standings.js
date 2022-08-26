@@ -9,7 +9,8 @@ import {
     Td,
     TableContainer,
     Container,
-    Icon
+    Icon,
+    Box
   } from '@chakra-ui/react'
 
 import { 
@@ -48,7 +49,6 @@ export default function StandingsPage(props){
                             <Tr>
                                 <Th></Th>
                                 <Th>Time</Th>
-                                <Th>Dono</Th>
                                 <Th>Record</Th>
                                 <Th>Pts Feitos</Th>
                                 <Th>Pts Sofridos</Th>
@@ -69,8 +69,14 @@ function standingLine(line, ownersDict){
     return (
         <Tr key={line.rank}>
             <Td isNumeric>{line.rank}</Td>
-            <Td fontWeight="800">{ownersDict[line.teamId].teamName}</Td>
-            <Td>{ownersDict[line.teamId].ownerName}</Td>
+            <Td>
+                <Box fontWeight={800}>
+                    {ownersDict[line.teamId].teamName}
+                </Box>
+                <Box color="gray.600" mt="0.3rem">
+                    {ownersDict[line.teamId].ownerName}
+                </Box>
+            </Td>
             <Td>{line.record}</Td>
             <Td>{line.pointsFor}</Td>
             <Td>{line.pointsAgainst}</Td>
@@ -82,29 +88,59 @@ function buildCampeoes(standings, ownersDict){
     return (
         <>
             <Tr>
-                <Td fontWeight={800} fontSize="20px"><Icon w={20} h={20} mr="15px" verticalAlign="middle" as={GiLaurelsTrophy} /> Campeão</Td>
-                <Td fontWeight={800} >{ownersDict[standings[0].teamId].teamName}</Td>
-                <Td fontWeight={800} >{ownersDict[standings[0].teamId].ownerName}</Td>
+                <Td fontWeight={800} fontSize="1.5rem"><Icon w={20} h={20} mr="1rem" verticalAlign="middle" as={GiLaurelsTrophy} /> Campeão</Td>
+                <Td fontWeight={800} >
+                    <Box fontSize="1.5rem">
+                        {ownersDict[standings[0].teamId].teamName}
+                    </Box>
+                    <Box color="gray.600" mt="0.8rem">
+                        {ownersDict[standings[0].teamId].ownerName}
+                    </Box>
+                </Td>
             </Tr>
             <Tr>
-                <Td fontSize="20px"><Icon w={12} h={12} ml="16px" mr="30px" verticalAlign="middle" as={IoMedalOutline} /> Vice-campeão</Td>
-                <Td>{ownersDict[standings[1].teamId].teamName}</Td>
-                <Td>{ownersDict[standings[1].teamId].ownerName}</Td>
+                <Td fontSize="1.5rem"><Icon w={12} h={12} ml="1rem" mr="2rem" verticalAlign="middle" as={IoMedalOutline} /> Vice-campeão</Td>
+                <Td>
+                    <Box fontSize="1.5rem">
+                        {ownersDict[standings[1].teamId].teamName}
+                    </Box>
+                    <Box color="gray.600" mt="0.8rem">
+                        {ownersDict[standings[1].teamId].ownerName}
+                    </Box>
+                </Td>
             </Tr>
             <Tr>
-                <Td fontSize="20px"><Icon w={12} h={12} ml="16px" mr="30px" verticalAlign="middle" as={IoMedalSharp} /> Terceiro Lugar</Td>
-                <Td>{ownersDict[standings[2].teamId].teamName}</Td>
-                <Td>{ownersDict[standings[2].teamId].ownerName}</Td>
+                <Td fontSize="1.5rem"><Icon w={12} h={12} ml="1rem" mr="2rem" verticalAlign="middle" as={IoMedalSharp} /> Terceiro Lugar</Td>
+                <Td>
+                    <Box fontSize="1.5rem">
+                        {ownersDict[standings[2].teamId].teamName}
+                    </Box>
+                    <Box color="gray.600" mt="0.8rem">
+                        {ownersDict[standings[2].teamId].ownerName}
+                    </Box>
+                </Td>
             </Tr>
             <Tr>
-                <Td fontSize="20px"><Icon w={12} h={12} ml="16px" mr="30px" verticalAlign="middle" as={GiTrophy} /> Campeão Consolo</Td>
-                <Td>{ownersDict[standings[4].teamId].teamName}</Td>
-                <Td>{ownersDict[standings[4].teamId].ownerName}</Td>
+                <Td fontSize="1.5rem"><Icon w={12} h={12} ml="1rem" mr="2rem" verticalAlign="middle" as={GiTrophy} /> Consolo</Td>
+                <Td>
+                    <Box fontSize="1.5rem">
+                        {ownersDict[standings[4].teamId].teamName}
+                    </Box>
+                    <Box color="gray.600" mt="0.8rem">
+                        {ownersDict[standings[4].teamId].ownerName}
+                    </Box>
+                </Td>
             </Tr>
             <Tr>
-                <Td fontSize="20px"><Icon w={12} h={12} ml="16px" mr="30px" verticalAlign="middle" as={GiTrashCan} /> Lanterna</Td>
-                <Td>{ownersDict[standings[standings.length-1].teamId].teamName}</Td>
-                <Td>{ownersDict[standings[standings.length-1].teamId].ownerName}</Td>
+                <Td fontSize="1.5rem"><Icon w={12} h={12} ml="1rem" mr="2rem" verticalAlign="middle" as={GiTrashCan} /> Lanterna</Td>
+                <Td>
+                    <Box fontSize="1.5rem">
+                        {ownersDict[standings[standings.length-1].teamId].teamName}
+                    </Box>
+                    <Box color="gray.600" mt="0.8rem">
+                        {ownersDict[standings[standings.length-1].teamId].ownerName}
+                    </Box>
+                </Td>
             </Tr>
         </>
     )

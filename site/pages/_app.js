@@ -26,6 +26,18 @@ const themeConfig = {
         bg: 'gray.500',
       },
     }
+  },
+  components: {
+    Tabs: {
+      baseStyle:{
+        tabpanel:{
+          p: 0
+        },
+        tablist:{
+          overflowX: "auto"
+        }
+      }
+    }
   }
 }
 
