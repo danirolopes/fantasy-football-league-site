@@ -27,15 +27,15 @@ def getOwners(leagueID, season) :
 			"trades": team.find('td', class_ = 'teamTradeCount').text.strip(),
 		}
 	
-	with open('./data/' + league_name + "/" + str(season) + "/" + "owners.json", "w") as outfile:
+	with open('./' + league_name + "/" + str(season) + "/" + "owners.json", "w") as outfile:
 		outfile.write(json.dumps(owners, indent=4, sort_keys=True))
 
 	return owners
 
 def getStandings(leagueId, season):
-	with open('./data/' + league_name + "/" + str(season) + "/" + "regular_season.json", "w") as outfile:
+	with open('./' + league_name + "/" + str(season) + "/" + "regular_season.json", "w") as outfile:
 		outfile.write(json.dumps(getStandingsRegular(leagueId, season), indent=4))
-	with open('./data/' + league_name + "/" + str(season) + "/" + "playoffs.json", "w") as outfile:
+	with open('./' + league_name + "/" + str(season) + "/" + "playoffs.json", "w") as outfile:
 		outfile.write(json.dumps(getStandingsPlayoffs(leagueId, season), indent=4))
 
 def getStandingsRegular(leagueId, season):
@@ -78,13 +78,13 @@ def getNumWeeks(leagueId, season):
 
 
 def getWeek(leagueId, season, weekNum):
-	if not os.path.isdir('./data/' + league_name + "/" + str(season) + "/" + str(weekNum)) :
-		os.mkdir('./data/' + league_name + "/" + str(season) + "/" + str(weekNum))
+	if not os.path.isdir('./' + league_name + "/" + str(season) + "/" + str(weekNum)) :
+		os.mkdir('./' + league_name + "/" + str(season) + "/" + str(weekNum))
 
 	weekMatchUps = getWeekMatchups(leagueId, season, weekNum)
 	for matchup in weekMatchUps:
 		game = getGame(leagueId, season, weekNum, matchup)
-		with open('./data/' + league_name + "/" + str(season) + "/" + str(weekNum) + "/"+ buildMatchupFilename(game)+".json", "w") as outfile:
+		with open('./' + league_name + "/" + str(season) + "/" + str(weekNum) + "/"+ buildMatchupFilename(game)+".json", "w") as outfile:
 			outfile.write(json.dumps(game, indent=4))
 
 def buildMatchupFilename(matchup):
@@ -172,7 +172,7 @@ def getDraft(leagueId, season):
 	for i in range(1, numRounds+1):
 		draft[i] = getRound(leagueId, season, i)
 	
-	with open('./data/' + league_name + "/" + str(season) + "/" + "draft.json", "w") as outfile:
+	with open('./' + league_name + "/" + str(season) + "/" + "draft.json", "w") as outfile:
 		outfile.write(json.dumps(draft, indent=4, sort_keys=True))
 
 def getNumberRounds(leagueid, season):
@@ -210,10 +210,10 @@ def getSoupFromPage(leagueId, season, page):
 	return soup
 
 if __name__ == "__main__":
-	if not os.path.isdir('./data/' + league_name) :
-		os.mkdir('./data/' + league_name)
-	if not os.path.isdir('./data/' + league_name + "/" + season) :
-		os.mkdir('./data/' + league_name + "/" + season)
+	if not os.path.isdir('./' + league_name) :
+		os.mkdir('./' + league_name)
+	if not os.path.isdir('./' + league_name + "/" + season) :
+		os.mkdir('./' + league_name + "/" + season)
 
 	getOwners(leagueID, season)
 	getDraft(leagueID, season)

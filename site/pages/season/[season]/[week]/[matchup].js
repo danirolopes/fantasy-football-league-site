@@ -60,9 +60,9 @@ function Team(props){
                 <Table variant='striped' size="md" colorScheme="tableScheme">
                     <Thead>
                     <Tr>
-                        <Th>Pos</Th>
-                        <Th>Jogador</Th>
-                        <Th>Pts</Th>
+                        <Th pr="0.2rem">Pos</Th>
+                        <Th pr="0.2rem">Jogador</Th>
+                        <Th pr="0.2rem">Pts</Th>
                     </Tr>
                     </Thead>
                     <Tbody>
@@ -75,9 +75,9 @@ function Team(props){
                 <Table variant='striped' size="md" colorScheme="tableScheme">
                     <Thead>
                     <Tr>
-                        <Th>Pos</Th>
-                        <Th>Jogador</Th>
-                        <Th>Pts</Th>
+                        <Th pr="0.2rem">Pos</Th>
+                        <Th pr="0.2rem">Jogador</Th>
+                        <Th pr="0.2rem">Pts</Th>
                     </Tr>
                     </Thead>
                     <Tbody>
@@ -92,9 +92,9 @@ function Team(props){
 function Player(props){
     return (
         <Tr>
-            <Td>{props.player.teamPosition}</Td>
-            <Td>{props.player.playerName}</Td>
-            <Td>{props.player.points}</Td>
+            <Td pr="0.2rem">{props.player.teamPosition}</Td>
+            <Td pr="0.2rem">{props.player.playerName}</Td>
+            <Td pr="0.2rem">{props.player.points}</Td>
         </Tr>
     )
 }

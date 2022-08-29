@@ -23,7 +23,7 @@ export default function PageWrapper(props){
             <Box as="header" mt="2rem" mb="2rem">
                 <Center>
                     <Link href="/">
-                        <Flex>
+                        <Flex cursor="pointer">
                             <Center>
                                 <Image src="/football-64-102853.png" h={63} w={63} objectFit="cover" />
                             </Center>
